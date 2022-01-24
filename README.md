@@ -22,15 +22,16 @@ It supports almost the complete range of Unicode characters for these scripts, i
 To download the fonts visit the [Kazuki Kimura's downloads page](https://github.com/KazukiKimuraJP/KazukiReiwa), the [Email](kazuki.kimura.jp@gmail.com) or from my [official site](https://www.kazukikimura.com).
 
 ## Basic Information
-Basic Latin letters (numbers and punctuation) was added in 2020 (September) 
-Russian letters in 2020 (November) 
-Greek letters in 2020 (December) 
-Japanese in 2021 (November) 
-Refactored hitting and kernings in 2021 (December) 
-Added Braille in 2021 (January) 
-Fixed kernings and size for small ppm in 2021 (January)
-
+- Basic Latin letters (numbers and punctuation) was added in 2020 (September) 
+- Russian letters in 2020 (November) 
+- Greek letters in 2020 (December) 
+- Japanese in 2021 (November) 
+- Refactored hitting and kernings in 2021 (December) 
+- Added Braille in 2021 (January) 
+- Fixed kernings and size for small ppm in 2021 (January)
 - KazukiReiwa Light, Medium, Bold were released in 2022 (20 January)
+
+- Fixed Ascending, Descending, reformatted Bold and Light version, fixed width for most characters in Latin. in 2022 (24 January)
 
 ## Designer
 Kazuki Kimura
