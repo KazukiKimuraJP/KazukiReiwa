@@ -19,7 +19,7 @@ This project is intended to provide a free and open font family for all current 
 
 It supports almost the complete range of Unicode characters for these scripts, including a comprehensive range of diacritics and a large set of symbols useful for linguistics and literacy work. Smart font routines automatically adjust the position of diacritics to support and optimize arbitrary base+diacritic combinations. 
 
-To download the fonts visit the [Kazuki Kimura's downloads page](https://github.com/KazukiKimuraJP/KazukiReiwa), the [Email](kazuki.kimura.jp@gmail.com) or from my [official site](https://www.kazukikimura.com).
+To download the fonts visit the [Kazuki Kimura's downloads page](https://github.com/KazukiKimuraJP/KazukiReiwa), the [Email](admin@kazukikimura.com) or from my [official site](https://www.kazukikimura.com).
 
 ## Basic Information
 - Basic Latin letters (numbers and punctuation) was added in 2020 (September) 
