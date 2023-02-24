@@ -33,6 +33,8 @@ To download the fonts visit the [Kazuki Kimura's downloads page](https://github.
 
 - Fixed Ascending, Descending, reformatted Bold and Light version, fixed width for most characters in Latin. in 2022 (24 January)
 
+- Officialy in Xiaomi market fonts. KazukiReiwa. 2023 (24 February)
+
 ## Designer
 Kazuki Kimura
 
