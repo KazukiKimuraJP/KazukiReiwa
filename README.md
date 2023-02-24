@@ -32,6 +32,8 @@ To download the fonts visit the [Kazuki Kimura's downloads page](https://github.
 - KazukiReiwa Light, Medium, Bold were released in 2022 (20 January)
 
 - Fixed Ascending, Descending, reformatted Bold and Light version, fixed width for most characters in Latin. in 2022 (24 January)
+- 
+- Now officialy in xiaomi market. font: KazukiReiwa.
 
 ## Designer
 Kazuki Kimura
